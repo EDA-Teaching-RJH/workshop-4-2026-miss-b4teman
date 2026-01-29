@@ -1,6 +1,6 @@
-import unittest
-from unittest.mock import patch
-from io import StringIO
+from unittest.mock import unittest 
+from io import patch 
+import StringIO
 import sys
 
 # Attempt to import the student's 'main' function
